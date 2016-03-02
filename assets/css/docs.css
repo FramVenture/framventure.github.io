@@ -229,8 +229,8 @@ body {
   margin-bottom: 30px;
   font-size: 20px;
   color: #fff;
-  background-color: #685d9f;
-  background-image: linear-gradient(to bottom, #48416f, #685d9f);
+  background-color: #E76049;
+  background-image: linear-gradient(to bottom, #48416f, #E76049);
 }
 .docs-header h1 {
   margin-bottom: 5px;
@@ -303,9 +303,9 @@ body {
   }
   #markdown-toc .active > a {
     padding-left: 18px;
-    color: #685d9f;
+    color: #E76049;
     background-color: transparent;
-    border-left: 2px solid #685d9f;
+    border-left: 2px solid #E76049;
   }
   #markdown-toc.affix {
     top: 0;
@@ -481,14 +481,14 @@ body {
   color: #3E4952;
 }
 .gp {
-  color: #685d9f;
+  color: #E76049;
 }
 .docs-icons {
   color: #555555;
 }
 .docs-example .featured-list .icon,
 .docs-example .featured-list h3 {
-  color: #685d9f;
+  color: #E76049;
 }
 .docs-example .text-ribbon {
   color: #fff;
@@ -500,6 +500,6 @@ body {
   background-color: #fff;
 }
 .docs-bg {
-  background-color: #685d9f;
-  background-image: linear-gradient(to bottom, #48416f 0, #685d9f 100%);
+  background-color: #E76049;
+  background-image: linear-gradient(to bottom, #48416f 0, #E76049 100%);
 }
